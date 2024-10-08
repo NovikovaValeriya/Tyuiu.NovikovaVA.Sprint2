@@ -7,7 +7,7 @@ namespace Tyuiu.NovikovaVA.Sprint2.Task1.V20
         {
             DataService ds = new DataService();
             int a = 242;
-            int b = 456;
+            int b = 155;
             int c = 456;
             int d = 17;
             bool[] res = new bool[6];
