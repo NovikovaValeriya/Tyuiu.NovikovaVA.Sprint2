@@ -9,8 +9,6 @@ namespace Tyuiu.NovikovaVA.Sprint2.Task5.V15
             int k;
             k = Convert.ToInt32(Console.ReadLine());
             DataService ds = new DataService();
-            k = Convert.ToInt32(Console.ReadLine());
-            DataService ds = new DataService();
             Console.WriteLine("***************************************************************************");
             Console.WriteLine("* ИСХОДНЫЕ ДАННЫЕ:                                                        *");
             Console.WriteLine("***************************************************************************");
